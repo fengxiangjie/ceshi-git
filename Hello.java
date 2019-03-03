@@ -6,4 +6,5 @@ package com.bbb.com;
 public class Hello {
     private String name;
     private String id;
+    private String add;
 }
